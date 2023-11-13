@@ -1,0 +1,11 @@
+C:\Users\Zakaria\source\repos\Gestion Location\bin\Debug\Gestion Location.exe.config
+C:\Users\Zakaria\source\repos\Gestion Location\bin\Debug\Gestion Location.exe
+C:\Users\Zakaria\source\repos\Gestion Location\bin\Debug\Gestion Location.pdb
+C:\Users\Zakaria\source\repos\Gestion Location\obj\Debug\Gestion Location.csproj.AssemblyReference.cache
+C:\Users\Zakaria\source\repos\Gestion Location\obj\Debug\Gestion Location.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zakaria\source\repos\Gestion Location\obj\Debug\Gestion_Location.Form1.resources
+C:\Users\Zakaria\source\repos\Gestion Location\obj\Debug\Gestion_Location.Properties.Resources.resources
+C:\Users\Zakaria\source\repos\Gestion Location\obj\Debug\Gestion Location.csproj.GenerateResource.cache
+C:\Users\Zakaria\source\repos\Gestion Location\obj\Debug\Gestion Location.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\source\repos\Gestion Location\obj\Debug\Gestion Location.exe
+C:\Users\Zakaria\source\repos\Gestion Location\obj\Debug\Gestion Location.pdb
